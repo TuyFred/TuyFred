@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @TuyFred
-- 👀 I’m interested in software development and AI machine learning 
-- 🌱 I’m currently learning information technology 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @TuyFred  
+- 👀 I’m interested in **software development, AI, and machine learning**  
+- 🌱 I’m currently learning **Information Technology**  
+- 💻 Skills: **React, Node.js, Java, Python**  
+- 💞️ I’m looking to collaborate on **full-stack web projects, AI/ML applications, and open-source contributions**  
+- 📫 How to reach me:  
+  - Facebook: [Fred Cyber](https://www.facebook.com/fred.cyber1)  
+  - X (formerly Twitter): [@fredtuyi75728](https://x.com/fredtuyi75728)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love turning ideas into working code and experimenting with new technologies  
 
 <!---
-TuyFred/TuyFred is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TuyFred/TuyFred is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
