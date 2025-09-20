@@ -7,7 +7,7 @@
   - Email: [fredtuyishime87@gmail.com.com](mailto:fredtuyishime87@gmail.com)  
   - Facebook: [Fred Cyber](https://www.facebook.com/fred.cyber1)  
   - X (formerly Twitter): [@fredtuyi75728](https://x.com/fredtuyi75728)  
-- 😄 Pronouns: He/Him  
+  
 - ⚡ Fun fact: I love turning ideas into working code and experimenting with new technologies  
 
 <!---
