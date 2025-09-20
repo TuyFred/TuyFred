@@ -4,7 +4,7 @@
 - 💻 Skills: **React, Node.js, Java, Python**  
 - 💞️ I’m looking to collaborate on **full-stack web projects, AI/ML applications, and open-source contributions**  
 - 📫 Contact Me:  +250 793093612
-  - Email: [fredtuyishime87@gmail.com.com](mailto:fredtuyishime87@gmail.com.com)  
+  - Email: [fredtuyishime87@gmail.com.com](mailto:fredtuyishime87@gmail.com)  
   - Facebook: [Fred Cyber](https://www.facebook.com/fred.cyber1)  
   - X (formerly Twitter): [@fredtuyi75728](https://x.com/fredtuyi75728)  
 - 😄 Pronouns: He/Him  
